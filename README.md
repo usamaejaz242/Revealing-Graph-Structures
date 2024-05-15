@@ -1,7 +1,7 @@
 # Revealing-Graph-Structures
 
 <p align="center">
-<img src="https://github.com/usamaejaz1244/IEER/blob/main/overview.png" width="700"  alt="Overview of EMBER">
+<img src="https://github.com/usamaejaz242/Revealing-Graph-Structures/blob/main/overview.png" width="700"  alt="Overview of EMBER">
 </p>
 
 
