@@ -1,6 +1,5 @@
 # Revealing-Graph-Structures
 
-**Code**: 
 ## Inputs:
 
 It takes two files as input, the graph file and the lookup file used to indicate which nodes to embed.
