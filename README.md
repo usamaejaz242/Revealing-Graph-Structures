@@ -1,5 +1,15 @@
 # Revealing-Graph-Structures
 
+<p align="center">
+<img src="https://github.com/usamaejaz1244/IEER/blob/main/overview.png" width="700"  alt="Overview of EMBER">
+</p>
+
+
+**Code**: 
+
+**Note: Python 3.7 is required to run the project **
+
+
 ## Inputs:
 
 It takes two files as input, the graph file and the lookup file used to indicate which nodes to embed.
